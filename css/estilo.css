@@ -442,6 +442,22 @@ footer ul a:hover {
         padding-left: 0px;
     }
 
+    footer .col-md-4 {
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+
+    h2 {
+        font-size: 3em;
+        line-height: 1.1em;
+    }
+
+    h3 {
+        font-size: 1.4em;
+    }
+
+    
+
 }
 
 @media (min-width: 1281px) {
@@ -449,6 +465,15 @@ footer ul a:hover {
     footer .col-md-4 {
         padding-right: 0px;
         padding-left: 0px;
+    }
+
+    h2 {
+        font-size: 3em;
+        line-height: 1.3em;
+    }
+
+    h3 {
+        font-size: 1.4em;
     }
 
 }
